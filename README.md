@@ -46,7 +46,7 @@ Có nhiều loại Enemy trong Bomberman :
 ## Notes
 - Hỗ trợ nhiều người chơi cùng 1 lúc trên cùng 1 máy
 - UML class diagrams
-  ![uml](UML_DIAGRAM.png)
+  ![uml](diagram.png)
 
 
 
